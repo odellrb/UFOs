@@ -1,3 +1,4 @@
 # UFOs
+![UFO_results](/UFO.png)
 
-[link to deployed webpage](https://odellrb.github.io/UFOs/)
+[Click Here To Visit UFO Webpage](https://odellrb.github.io/UFOs/)
